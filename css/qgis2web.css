@@ -14,10 +14,10 @@
 		}
         .info {
             padding: 6px 8px;
-            font: 14px/16px Arial, Helvetica, sans-serif;
+            font: 18px/20px Arial, Helvetica, sans-serif;
             background-color:#f8f8f8 !important;
             color: #444444 !important;
-            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            box-shadow: 0 0 20px rgba(0,0,0,0.2);
             border-radius: 5px;
         }
         .info h2 {
@@ -25,7 +25,7 @@
         }
         .leaflet-container {
             background: #fff;
-            padding-right: 10px;
+            padding-right: 20px;
         }
         .leaflet-popup-scrolled {
             border-bottom: unset!important;
